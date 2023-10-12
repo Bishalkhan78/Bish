@@ -291,7 +291,7 @@ def menu():
 		
 	if ot == '2':
 		os.system('xdg-open https://facebook.com/groups/754668329386950/')
-		rndm(01)
+		rndm(1)
 		
 	if ot == '3':
 		os.system('xdg-open https://facebook.com/groups/754668329386950/')
